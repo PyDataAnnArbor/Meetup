@@ -1,4 +1,4 @@
-![PyData Ann Arbor Logo](https://github.com/PyDataAnnArbor/Meetup/blob/master/PyDataLogoAnnArbor.png)
+<img src="https://github.com/PyDataAnnArbor/Meetup/blob/master/PyDataLogoAnnArbor.png" width="400">
 
 [PyData Ann Arbor](https://www.meetup.com/PyData-Ann-Arbor/) is a group for amateurs, academics, and professionals currently exploring various data ecosystems. Specifically, we seek to engage with others around analysis, visualization, and management. We are primarily focused on how Python data tools can be used in innovative ways but also maintain a healthy interest in leveraging tools based in other languages such as R, Java/Scala, Rust, and Julia. 
 
